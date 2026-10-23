@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "استودیو اوشان",
+      "hasCanvas": false,
+      "bodyTextLen": 59,
+      "bodyTextHash": "4b5651f6621ce1210856b14d52d37647b1f970f9a35ee8aae8c6cef1d0206884",
+      "bodyTextPrefix": "استودیو اوشان بسته‌بندی سه‌بعدی حبوبات در حال چیدن استودیو…",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "استودیو اوشان",
+      "hasCanvas": false,
+      "bodyTextLen": 59,
+      "bodyTextHash": "4b5651f6621ce1210856b14d52d37647b1f970f9a35ee8aae8c6cef1d0206884",
+      "bodyTextPrefix": "استودیو اوشان بسته‌بندی سه‌بعدی حبوبات در حال چیدن استودیو…",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
